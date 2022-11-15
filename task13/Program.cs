@@ -17,11 +17,11 @@ int mod = number1 % number2;
 int mod2 = number1 % number3;
 if(mod == 0 && mod2 == 0)
 {
-    Console.WriteLine("Число кратно");
+    Console.WriteLine("Число кратно 7 и 23");
 }
 else
 {
-    Console.WriteLine("Число не кратно");
+    Console.WriteLine("Число не кратно 7 и 23");
 }
 
 // Console.WriteLine("Введите число: ");
