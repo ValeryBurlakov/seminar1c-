@@ -3,7 +3,7 @@
 // 	782 -> 2
 // 	918 -> 8
 Console.Write("Введите число: ");
-string numberA = Convert.ToInt32(Console.ReadLine());
+int numberA = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(numberA%10);
 //просто деление под остаток. я хотел вывести индекс последнего числа, но сбило % с толку
