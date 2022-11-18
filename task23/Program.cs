@@ -9,6 +9,22 @@ int i = 1;
 while (i <= x)
 {
 
-     Console.Write(i*i+ " ");// 
+     Console.Write(i*i + " ");// Math.Pow(i, 2);
       i++;
 }
+// Console.WriteLine("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// for(int i = 1; i <= number; i++)
+// {
+//     Console.WriteLine(i*i);
+// }
+
+// Console.WriteLine("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int count = 1;
+// while(count <= number)
+// {
+//     Console.WriteLine(count*count);
+//     count++;
+// }
+
