@@ -1,0 +1,15 @@
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.csproj.AssemblyReference.cache
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.AssemblyInfoInputs.cache
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.AssemblyInfo.cs
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.csproj.CoreCompileInputs.cache
+C:\geekbrains\sem1\task17\bin\Debug\net6.0\task17.exe
+C:\geekbrains\sem1\task17\bin\Debug\net6.0\task17.deps.json
+C:\geekbrains\sem1\task17\bin\Debug\net6.0\task17.runtimeconfig.json
+C:\geekbrains\sem1\task17\bin\Debug\net6.0\task17.dll
+C:\geekbrains\sem1\task17\bin\Debug\net6.0\task17.pdb
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.dll
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\refint\task17.dll
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.pdb
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\task17.genruntimeconfig.cache
+C:\geekbrains\sem1\task17\obj\Debug\net6.0\ref\task17.dll
