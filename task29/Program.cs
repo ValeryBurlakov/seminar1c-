@@ -2,6 +2,9 @@
 
 // int[] num = new int[8];
 // for (int i = 0; i < num.Length; i++)
+// {
+
+// 
 // num[i] = int.Parse(Console.ReadLine());
 // Console.WriteLine(num[i]);
 // Console.WriteLine("Введите длину массива: ");
@@ -19,15 +22,15 @@
 // }
 
 
-Console.Write(string.Join(", ", num[i]));// разделитель для массива
+// Console.Write(string.Join(", ", num[i]));// разделитель для массива
 
-int [] arr = new int [8];
-for(int i = 0; i < arr.Length; i++)
-{
-    arr[i] = new Random().Next(0,2);
-    //Console.Write(" " + arr[i]);
-}
-Console.Write('[' + string.Join(", ", arr) + ']');
+// int [] arr = new int [8];
+// for(int i = 0; i < arr.Length; i++)
+// {
+//     arr[i] = new Random().Next(0,2);
+//     //Console.Write(" " + arr[i]);
+// }
+// Console.Write('[' + string.Join(", ", arr) + ']');
 
 
 // int[] num = new int[8];
