@@ -31,7 +31,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 int[] array = FillArray(num);
 Console.WriteLine(string.Join(", ", array));
 ReverseArray(array);
-Console.WriteLine(string.Join(", ", array) + a);
+Console.WriteLine(string.Join(", ", array) + num);
 
 // int[] newArray = array;
 // array[0] = 100;
