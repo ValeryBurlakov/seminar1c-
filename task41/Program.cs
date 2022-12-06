@@ -94,11 +94,4 @@
 // }
 // Console.WriteLine(string.Join(", ", newArray));
 
-//домашка
-// double b1 = znacheniej1[0];
-// double b2 = znacheniej2[0];
-// double k1 = znacheniej1[1];
-// double k2 = znacheniej2[1];
-// double x = Math.Round((b2 - b1) / (k1 - k2)   ,2);
-// double y = Math.Round(k1 * x + b1   ,2);
-//double y = k1 * ( b2 - b1 ) / ( k1 - k2 ) + b1;
+
